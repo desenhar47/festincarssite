@@ -41,3 +41,5 @@ Le site démarre et est disponible à l'adresse [http://localhost:8080](http://l
 Ensuite dans un deuxième terminal il faut démarrer la base de données, se placer dans le dossier 'bdd' 
 
 ``` npm run develop ```
+
+La base de données est disponible à l'adresse suivante : [http://localhost:1337/admin](http://localhost:1337/admin)
