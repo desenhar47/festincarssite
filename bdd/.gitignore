@@ -71,12 +71,6 @@ $RECYCLE.BIN/
 # Misc.
 ############################
 
-*#
-ssl
-.idea
-nbproject
-public/uploads/*
-!public/uploads/.gitkeep
 
 ############################
 # Node.js
@@ -103,7 +97,5 @@ coverage
 
 .env
 license.txt
-exports
-*.cache
 build
 .strapi-updater.json
