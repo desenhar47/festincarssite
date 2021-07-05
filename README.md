@@ -5,4 +5,4 @@
 
 
 Pour clonez le projet.
-git clone ``` https://github.com/desenhar47/festincarssite ```
+```git clone https://github.com/desenhar47/festincarssite ```
