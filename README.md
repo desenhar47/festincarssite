@@ -15,3 +15,17 @@ Puis
 
 ```npm i ```
 
+Retourner à la racine du projet
+
+``` cd .. ```
+
+Sélectionner le dossier de la base de données
+
+``` cd bdd ```
+
+Et enfin 
+
+``` npm i ```
+
+
+Le projet et maintenant installé ! Il ne reste plus qu'à le lancé.
