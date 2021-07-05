@@ -36,3 +36,8 @@ Pour lancer le site, se placer dans le dossier 'site'
 ``` npm run serve ```
 
 Le site démarre et est disponible à l'adresse [http://localhost:8080](http://localhost:8080)
+
+
+Ensuite dans un deuxième terminal il faut démarrer la base de données, se placer dans le dossier 'bdd' 
+
+``` npm run develop ```
