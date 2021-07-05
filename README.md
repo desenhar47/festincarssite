@@ -43,3 +43,9 @@ Ensuite dans un deuxième terminal il faut démarrer la base de données, se pla
 ``` npm run develop ```
 
 La base de données est disponible à l'adresse suivante : [http://localhost:1337/admin](http://localhost:1337/admin)
+
+
+Voici les identifiants :
+
+mail : festincars@gmail.com
+mot de passe : Festincars47
